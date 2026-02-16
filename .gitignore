@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.*
+
+# Expo / React Native
+.expo/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS / User
+*.log
+*.tmp
+
